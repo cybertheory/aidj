@@ -1,0 +1,11 @@
+openai
+pydub
+librosa
+requests
+python-dotenv
+mutagen
+numpy
+scipy
+matplotlib
+aiohttp
+asyncio-mqtt
